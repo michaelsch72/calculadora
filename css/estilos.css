@@ -9,3 +9,9 @@
       background: url(fondo.png),
         linear-gradient(to left, #2196f3, #009688);
   }
+  #resultado{
+   font-size: 200px;
+   font-family:sans-serif;
+   color: aliceblue;
+   text-align: center;
+  }
